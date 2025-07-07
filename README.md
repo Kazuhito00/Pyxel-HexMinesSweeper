@@ -5,6 +5,7 @@
 # Pyxel HexMinesweeper
 
 Pyxelで作成されたヘックス型マインスイーパゲームです。
+![image](https://github.com/user-attachments/assets/73eb78ef-b0e7-4668-8a51-444f536bd3dd)
 
 ## 特徴
 
@@ -60,6 +61,7 @@ Pyxel HexMinesweeper is under [Apache 2.0 License](LICENSE).
 # Pyxel HexMinesweeper
 
 A Hexagonal Minesweeper game built with Pyxel.
+![image](https://github.com/user-attachments/assets/73eb78ef-b0e7-4668-8a51-444f536bd3dd)
 
 ## Features
 
