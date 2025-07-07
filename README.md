@@ -30,6 +30,8 @@ Pyxelで作成されたヘックス型マインスイーパゲームです。
 
 ## 実行方法
 
+[こちら](https://kazuhito00.github.io/Pyxel-HexMinesSweeper/)でプレイできます。
+
 ```bash
 python main.py
 ```
@@ -85,6 +87,8 @@ A Hexagonal Minesweeper game built with Pyxel.
     ```
 
 ## How to Run
+
+You can play it [here](https://kazuhito00.github.io/Pyxel-HexMinesSweeper/).
 
 ```bash
 python main.py
